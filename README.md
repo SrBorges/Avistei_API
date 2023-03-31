@@ -70,6 +70,19 @@ Caso seja forçado um acesso, os Endpoints estarão bloqueados.
 
 * http://localhost:8080/integrante
 
+# criptografia
+
+https://bcrypt-generator.com/
+
+# Requisitos
+* Spring Boot DevTools
+* Lombok
+* Spring Web
+* Validation
+* MySQL Driver
+* Flyway Migration
+* Spring Data JPA
+* Spring Security
 
 
 
